@@ -12,7 +12,7 @@ import javax.json.JsonObjectBuilder;
 
 /**
  *
- * @author artjo
+ * @author feed
  */
 public class JsonUserBuilder {
 

@@ -12,7 +12,7 @@ import javax.json.JsonValue;
 
 /**
  *
- * @author artjo
+ * @author feed
  */
 public class JsonPersonBuilder {
 

@@ -24,7 +24,7 @@ import util.EncryptPass;
 
 /**
  *
- * @author artjo
+ * @author feed
  */
 @WebServlet(name = "LoginController", urlPatterns = {
     "/createUser",

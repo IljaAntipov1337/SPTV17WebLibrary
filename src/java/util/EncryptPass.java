@@ -8,7 +8,7 @@ import java.util.logging.Level;
 
 /**
  *
- * @author artjo
+ * @author feed
  */
 public class EncryptPass {
 
