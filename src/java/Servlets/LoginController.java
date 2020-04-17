@@ -193,8 +193,6 @@ public class LoginController extends HttpServlet {
                 }
                 break;
         }
-        // Отлавливаем json переменную, проверяем содержание 
-        // и если оно есть, отправляем клиенту
         if (json != null && !"".equals(json)) {
             try (PrintWriter out = response.getWriter()) {
                 out.println(json);
