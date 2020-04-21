@@ -167,4 +167,12 @@ public class Person implements Serializable {
         return "Person{" + "id=" + id + ", firstname=" + firstname + ", lastname=" + lastname + ", email=" + email + ", city=" + city + ", street=" + street + ", house=" + house + ", room=" + room + '}';
     }
 
+    public int getMoney() {
+        return money;
+    }
+
+    public void setMoney(int money) {
+        this.money = money;
+    }
+
 }
